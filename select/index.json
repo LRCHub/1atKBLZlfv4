@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "猫被り",
+  "base_artist": "Keina Suda",
+  "createdAt": "2026-03-04T05:20:14.227903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "猫被り",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/01_猫被り_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "須田景凪 - 猫被り(Music Video)",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/02_須田景凪_-_猫被り(Music_Video)_Keina_Suda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "猫被り",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_猫被り_須田景凪.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "猫被り",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_02_猫被り_須田景凪.txt"
+    }
+  ]
+}
